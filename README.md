@@ -1,13 +1,13 @@
-# Hi there, I'm Shehab 👋
+# Hi there, I am Shehab 👋
 
 [![Website](https://img.shields.io/website?label=shehabshalan.com&style=for-the-badge&url=https%3A%2F%2Fshehabshalan.com)](https://shehabshalan.com)
 
 ## I'm a frontend developer!!
 
 - 🌱 I’m currently studying master's in Web and Data Science.
-- 👯 I’m working on side projects
+- 👯 I’m working on side projects.
 - 🥅 2022 Goals: Learn a backend technology.
-- ⚡ Hobbies: I love to write and play piano
+- ⚡ Hobbies: I love to write and play piano.
 
 ### Connect with me:
 
@@ -25,7 +25,6 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
