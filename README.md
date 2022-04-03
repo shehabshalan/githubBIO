@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=shehabshalan.com&style=for-the-badge&url=https%3A%2F%2Fshehabshalan.com)](https://shehabshalan.com)
 
-## I'm a frontend developer!!
+## I'm a Frontend Developer!!
 
 - 🌱 I’m currently studying master's in Web and Data Science.
 - 👯 I’m working on side projects.
