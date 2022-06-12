@@ -1,6 +1,5 @@
-# Hi there, I am Shehab 👋
-
-## I'm a Frontend Developer
+# Hi, I am Shehab Shalan 👋
+## A Frontend Developer
 
 - 🌱 I’m currently studying master's in Web and Data Science.
 - 👯 I’m working on side projects.
