@@ -1,5 +1,5 @@
 # Hi, I am Shehab Shalan 👋
-## Web Developer
+## Full Stack Developer
 
 - 🌱 I’m currently studying master's in Web and Data Science.
 - 👯 I’m working on side projects.
