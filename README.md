@@ -1,10 +1,4 @@
-# Hi, I am Shehab Shalan 👋
-## Full Stack Developer
-
-- 🌱 I’m currently studying master's in Web and Data Science.
-- 👯 I’m working on side projects.
-- 🥅 2022 Goals: Learn a backend technology.
-- ⚡ Hobbies: I love to write and play piano.
+# Hi, I am Shehab Shalan (Full Stack Developer) 👋
 
 ### Connect with me:
 
