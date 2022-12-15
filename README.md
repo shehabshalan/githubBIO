@@ -8,7 +8,7 @@ Hi, I'm Shehab Shalan, a full stack developer.
 
 ## What I am doing
 
-- 👨🏻‍💻 Coding daily.
+- 👨🏻‍💻 Coding and building fun stuff.
 - 🌱 Exploring different technologies.
 
 
