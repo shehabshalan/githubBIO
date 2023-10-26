@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.shehabshalan.com/)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehabshalan/)
 <!-- ref https://ileriayo.github.io/markdown-badges/ -->
-I am Shehab Shalan, a full-stack developer.
+I am Shehab Shalan, a software engineer.
 
 ## What I am doing
 
